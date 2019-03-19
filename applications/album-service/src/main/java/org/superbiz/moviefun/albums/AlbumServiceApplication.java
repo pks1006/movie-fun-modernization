@@ -11,6 +11,7 @@ import org.superbiz.cloudfoundry.ServiceCredentials;
 import org.superbiz.moviefun.blobstore.BlobStore;
 import org.superbiz.moviefun.blobstore.S3Store;
 
+
 @SpringBootApplication
 public class AlbumServiceApplication {
     public static void main(String... args) {
